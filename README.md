@@ -1,1 +1,1 @@
-Bill-manager written in Rust.
+This bill manaager script is written in Rust.
